@@ -1,5 +1,7 @@
 # Understanding Neural Networks from Geometric perspective
 
+![Boundary visualization for binary classification](https://littlegiant-28.github.io/neural_network_intution/second_layer_output.png)
+
 This repository contains code used for conducting experiments and generating visualization for my blog named **"Understanding Neural Networks from Geometric Perspective"** [here](https://littlegiant-28.github.io/neural_network_intution/)
 
 ## Generate weights & boundary visualizations
